@@ -9,4 +9,4 @@ A php script to prepare installation of selected Wordpress release.
 - Click on `Install`
  
 # How it works
-Script downloads selected release, unpacks, creates `.htaccess` file, removes itself and redirects you to installation process.
+Script downloads selected release, unpacks, removes itself and redirects you to installation process.
